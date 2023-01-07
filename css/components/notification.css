@@ -1,0 +1,31 @@
+.container {
+  width: 940px;
+  margin: 0 auto;
+}
+
+.notification {
+  display: flex;
+  align-items: center;
+  padding: 12px 20px;
+  margin-bottom: 3px;
+  background-color: white;
+  border-radius: 3px;
+  font-family: 'Inter';
+}
+
+.info h3, p{
+  margin: 0px;
+  padding-left: 15px;
+}
+
+.info h3 {
+  font-family: 'Inter';
+  font-size: 14px;
+  font-weight: 800;
+  margin-bottom: 2px;
+}
+
+.notifications a {
+  text-decoration: none;
+  color: #268BD2;
+}
